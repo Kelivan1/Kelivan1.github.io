@@ -1,3 +1,6 @@
+.largerContainer {
+    display: flex;
+}
 .container {
     width: 300px;
     margin: 50px auto;
