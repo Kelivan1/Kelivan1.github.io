@@ -1,5 +1,6 @@
 .largerContainer {
     display: flex;
+    align-items: center;
 }
 .container {
     width: 300px;
