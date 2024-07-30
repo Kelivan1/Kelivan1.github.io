@@ -8,11 +8,15 @@
 }
 
 .image {
-    width: 50px;
+    width: 80px;
     height: auto;
 }
 
 
-h1, h2, p {
+h1, h2, h3 {
     font-family: 'Roboto', sans-serif; /* Specific font for headers and paragraphs */
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
 }
