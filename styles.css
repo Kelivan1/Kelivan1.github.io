@@ -7,17 +7,6 @@
     margin-right: 20px; /* Space between text and image */
 }
 
-.image {
-    width: 80px;
-    height: auto;
-}
-
-img {
-    width: 80px;
-    height: auto;
-}
-
-
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif; /* Specific font for headers and paragraphs */
 }
