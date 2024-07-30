@@ -17,5 +17,5 @@ body {
 
 
 h1, p {
-    font-family: 'Roboto', Roboto Mono; /* Specific font for headers and paragraphs */
+    font-family: 'Roboto', sans-serif; /* Specific font for headers and paragraphs */
 }
