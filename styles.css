@@ -13,6 +13,22 @@
     font-size: 27px;
 }
 
+/*.image-cropper {
+    width: 450px;
+    height: 450px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 100%;
+  }
+    */
+
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
+
 .button-group {
     display: flex;
     gap: 10px;
